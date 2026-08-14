@@ -10,4 +10,16 @@ Langauges used: C, Java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/sejal-s-patil/LeetCode-problems/tree/main/C/0009-palindrome-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sejal-s-patil/LeetCode-problems/tree/main/Java/0011-container-with-most-water/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sejal-s-patil/LeetCode-problems/tree/main/Java/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sejal-s-patil/LeetCode-problems/tree/main/Java/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
